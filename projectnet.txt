@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <title>Netflix India - Watch TV Shows Online, Watch Movies Online</title>
+    <link rel="stylesheet" href="C:\Users\Yashica Valecha\Music\style.css"/>
+</head>
+<body>
+    <div class="root">
+        <nav class="navbar">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1200px-Netflix_2015_logo.svg.png">
+            <div class="btn-sign-in">Sign in</div>
+        </nav>
+        <div class="main-container">
+            <div class="main-titles-container">
+                <h1 class="main-title">Unlimited movies, TV Shows and more.</h1>
+                <h2 class="main-subtitle">Watch anywhere. Cancel anytime.</h2>
+                <p class="main-call-to-action">
+                    Ready to watch? Enter your email to create or restart your membership.
+<form action="#" class="email-signup"><input type="email" placeholder="Email address" required><button type="submit">Get Started</button></form>
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
